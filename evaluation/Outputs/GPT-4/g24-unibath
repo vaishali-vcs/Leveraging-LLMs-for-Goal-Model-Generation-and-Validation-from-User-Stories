@@ -1,0 +1,79 @@
+In the output enclosed using triple back ticks, do you see duplicate values in sections-'Actors', 'Soft Goals', 'Goals', 'Tasks for Goals', and 'Tasks for Soft Goals'? Answer using yes or no only. Do not include any explanation.
+
+No
+
+In the output enclosed using triple back ticks, do you see empty string as a value in sections-'Actors', 'Soft Goals', 'Goals', 'Tasks for Goals', and 'Tasks for Soft Goals'? Answer using yes or no only. Do not include any explanation.
+
+No
+
+Is the output enclosed using triple back ticks empty? Answer yes or no only. Do not include any explanation.
+
+No
+
+Does the output have a section with title 'actors'? Yes or No?
+
+Yes
+
+In the output enclosed using triple back ticks, do you see an actor mentioned in the section 'actors' used as a source or destination within the section named 'Decompositions Links' or 'Contributions Links'? Answer yes or no only. Do not include any explanation.
+
+Yes
+
+Does the output enclosed using triple back ticks, have the following sections with titles- 'IE Links for Goals', 'IE Links for Tasks of Soft Goals', 'IE Links for Tasks of Goals', 'IE Links for Tasks of Soft Goals'? Answer using yes or no only? Do not include any explanation.
+
+Yes
+
+In the output enclosed using triple back ticks, is every element in the section-'Goals' present in the section name 'IE Links for Goals'? Answer Yes or No? Do not include any explanation.
+
+No
+
+In the output enclosed using triple back ticks, is every element in the section-'Soft Goals' present in the section name 'IE Links for Tasks of Soft Goals'? Answer Yes or No? Do not include any explanation.
+
+No
+
+In the output enclosed using triple back ticks, is every element in the section-'Tasks of Goals' present in the section name 'IE Links for Tasks of Goals'? Answer Yes or No? Do not include any explanation.
+
+Yes
+
+In the output enclosed using triple back ticks, is every element in the section-'Tasks of Soft Goals' present in the section name 'IE Links for Tasks of Soft Goals'? Answer Yes or No? Do not include any explanation.
+
+Yes
+
+In the output enclosed using triple back ticks, is there atleast one entry in the following sections-following sections with titles- 'IE Links for Goals', 'IE Links for Tasks of Soft Goals', 'IE Links for Tasks of Goals', 'IE Links for Tasks of Soft Goals' that is associated with multiple actors? Answer Yes or No? Do not include any explanation.
+
+No
+
+In the output enclosed using triple back ticks, do you see any section other than the following- 'Tasks for Goals', 'Tasks for Soft Goals', 'Goals', 'Soft Goals', 'Actors', 'Contribution Links', 'Decomposition Links','IE Links for Goals', 'IE Links for Tasks of Soft Goals', 'IE Links for Tasks of Goals', and 'IE Links for Tasks of Soft Goals'? Answer yes or no only. Do not include any explanation.
+
+No
+
+In the output enclosed using triple back ticks, if you see a section with name 'Contribution Links', are the values for source and destination, different? Answer Yes, or No if section 'Contribution Links' is present. Otherwise answer Not Applicable. Do not include any explanation.
+
+Yes
+
+In the output enclosed using triple back ticks, if you see a section with name 'Contribution Links', is the source empty string? Answer yes or no only. Do not include any explanation.
+
+No
+
+In the output enclosed using triple back ticks, if you see a element with name 'Contribution Links', is the value for destination empty string? Answer yes or no only. Do not include any explanation.
+
+No
+
+In the output enclosed using triple back ticks, under the section 'Contribution Links', is the contribution type one of the following values- Make, Help, Break, Hurt? Answer Yes, or No if element with name 'contribution' is present. Otherwise answer Not Applicable. Do not include any explanation.
+
+Yes
+
+In the output enclosed using triple back ticks, under the section 'Decomposition Links' do you see any decomposition type' other than other than the following values - AND, OR, XOR? Answer yes or no only. Do not include any explanation.
+
+No
+
+In the output enclosed using triple back ticks, if you see a section with name 'Decomposition Links', are the values for source and destination different? Answer Yes, or No if element with name 'decomposition' if present. Otherwise answer Not Applicable. Do not include any explanation.
+
+Yes
+
+In the output enclosed using triple back ticks, if you see a section with name 'Decomposition Links', is the value for source empty string, or is the 'source' missing? Answer yes or no only. Do not include any explanation.
+
+No
+
+In the output enclosed using triple back ticks, if you see an element with name 'Decomposition Links', is the value for destination empty string, or is the destination' missing? Answer yes or no only. Do not include any explanation.
+
+No

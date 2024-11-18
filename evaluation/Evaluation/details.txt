@@ -1,0 +1,6 @@
+these graphs are built using the below logic-
+1. run all the steps of the iterative prompt, excluding the final XML
+2. Removed the logic of including an incomplete Goal Model and asking the LLM to correct it.
+3. Added Logic to include 1 textual ideal output.
+4. Reordered the IE Links Prompt close to their generation prompt.
+5. Run all the criteria on the final XML.
